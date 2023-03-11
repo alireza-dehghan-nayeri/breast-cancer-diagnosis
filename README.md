@@ -47,3 +47,4 @@ this paper will be a review of the selected papers in this repo it will show the
 - [ ] applay some known mothods to data sets and compare them
 - [ ] implement the android app
 - [ ] dockerize the backend services
+- [ ] find an expert to get details about breast cancer
