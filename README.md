@@ -2,9 +2,9 @@
 
 A project to predict risk of breast cancer for women
 
-After searching about applications that estimate the risk of breast cancer I found two applications on Google Play Store and none in Cafe Bazzar store.
+After searching applications that estimate the risk of breast cancer I found two applications on Google Play Store and none in Cafe Bazzar store.
 
-I found some related papres about data mining and it's use in breas cancer diagnosis wich is uploaded to this repo.
+I found some related papers about data mining and it's use in breast cancer diagnosis wich are uploaded to this repo.
 
 ##### Features of this project:
 
@@ -14,7 +14,7 @@ I found some related papres about data mining and it's use in breas cancer diagn
 
 3: A frontend App for android devices which uses the json file to draw dynamic form and be used to show the risk of cancer to users
 
-4: A data mining method to preprocess, classify and predict the risk of cancer by using local and foreign breas cancer data
+4: A data mining method to preprocess, classify and predict the risk of cancer by using local and foreign breast cancer data
 
 5: A paper to determine and find the best method of data mining for this specific task which increase the accurecy of prediction
 
@@ -41,3 +41,9 @@ this paper will be a review of the selected papers in this repo it will show the
 
 # Todo:
 - [ ] read the review papers related to the task
+- [ ] implement the backend services using golang 
+- [ ] find related data sets and upload them to this repo
+- [ ] search for cancer facilities to get some local data
+- [ ] applay some known mothods to data sets and compare them
+- [ ] implement the android app
+- [ ] dockerize the backend services
