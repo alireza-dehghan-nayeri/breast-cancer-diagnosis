@@ -1,6 +1,6 @@
 # breast-cancer-diagnosis
 
-A project to predict risk of breast cancer for women
+This is a project to predict risk of breast cancer for women
 
 After searching applications that estimate the risk of breast cancer I found two applications on Google Play Store and none in Cafe Bazzar store.
 
