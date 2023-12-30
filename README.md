@@ -1,22 +1,21 @@
 # breast-cancer-diagnosis
 
-This is a project to predict risk of breast cancer for women
+This is a project aiming to predict the risk of breast cancer in women.
 
-After searching applications that estimate the risk of breast cancer I found two applications on Google Play Store and none in Cafe Bazzar store.
+After exploring applications that estimate the risk of breast cancer, I found two applications on the Google Play Store and none in the Cafe Bazzar store.
 
-I found some related papers about data mining and it's use in breast cancer diagnosis wich are uploaded to this repo.
+I discovered some relevant papers about data mining and its use in breast cancer diagnosis, which are uploaded to this repository.
 
 ##### Features of this project:
+1: A backend service to store and send JSON files, which is used to generate dynamic forms.
 
-1: A backend service to store and send json files which is used to draw dynamic forms from
+2: A backend service to store and send user data, returning the risk to the user.
 
-2: A backend service to store and send user data and returns the risk to user 
+3: A frontend app for Android devices that utilizes the JSON file to generate dynamic forms and displays the risk of cancer to users.
 
-3: A frontend App for android devices which uses the json file to draw dynamic form and be used to show the risk of cancer to users
+4: A data mining method to preprocess, classify, and predict the risk of cancer using local and foreign breast cancer data.
 
-4: A data mining method to preprocess, classify and predict the risk of cancer by using local and foreign breast cancer data
-
-5: A paper to determine and find the best method of data mining for this specific task which increase the accurecy of prediction
+5: A paper to determine and identify the best method of data mining for this specific task, increasing the accuracy of prediction.
 
 ### 1: Json storage backend service
 
